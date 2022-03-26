@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P1</string>
+    <string name="thanks">Teşekkürler</string>
+    <string name="barcode">barcode</string>
+    <string name="other">Diğer</string>
+    <string name="tl_200">200 TL</string>
+    <string name="_100_tl">100 TL</string>
+    <string name="_50_tl">50 TL</string>
+    <string name="demeyi_g_nder">Ödemeyi gönder</string>
+    <string name="kredi_kart_le_de">Kredi Kartı İle Öde</string>
+    <string name="nakit_de">Nakit Öde</string>
+    <string name="ptal">İptal</string>
+    <string name="kasiyerim">Kasiyerim</string>
+    <string name="m_teriyim">Müşteriyim</string>
+    <string name="manuel_crash">Manuel Crash</string>
+    <string name="yeni_fi_olu_tur">Yeni Fiş Oluştur</string>
+</resources>
